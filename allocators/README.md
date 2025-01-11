@@ -1,4 +1,4 @@
-### Build 
+### Run
 ```bash
-./mvnw clean install 
+./run.sh
 ```
